@@ -154,3 +154,13 @@ main {
     top:45px;
     right:607px;
 }
+
+.luna{
+    position:sticky;
+    left:0px;
+
+}
+
+.top-hat{
+    z-index:3;
+}
